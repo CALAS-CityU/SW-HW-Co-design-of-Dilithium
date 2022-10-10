@@ -38,7 +38,7 @@ Here are the tools and devices we use for implementation and testing.
 
 ## Code Implementation and Real Test On FPGAs
 
-1. For the hardware implementation and system generation, please check `HW_IMPL.md` for further details.
+1. For the hardware implementation and system generation, please check `Hardware.md` for further details.
 2. For the SW/HW co-design and on-board testing, please check `DESIGN_IMPL.md` for further details.
 
 ## Questions
