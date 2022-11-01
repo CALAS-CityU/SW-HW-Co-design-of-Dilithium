@@ -1,6 +1,6 @@
 # High-Performance and Configurable SW/HW Co-design of Post-Quantum Signature CRYSTALS-Dilithium
 
-This repository is for our paper "High-Performance and Configurable SW/HW Co-design of Post-Quantum Signature CRYSTALS-Dilithium" accepted in ACM Transactions on Reconfigurable Technology and Systems (TRETS). It hosts a hardware accelerator for the post-quantum signature scheme [CRYSTALS-Dilithium](https://pq-crystals.org/dilithium/), including:
+This repository is for our paper "[High-Performance and Configurable SW/HW Co-design of Post-Quantum Signature CRYSTALS-Dilithium](https://dl.acm.org/doi/10.1145/3569456)" accepted in ACM Transactions on Reconfigurable Technology and Systems (TRETS). It hosts a hardware accelerator for the post-quantum signature scheme [CRYSTALS-Dilithium](https://pq-crystals.org/dilithium/), including:
 
 - a hybrid NTT/INTT module for polynomial multiplication.
 - a point-wise multiplication module.
