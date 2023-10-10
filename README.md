@@ -9,7 +9,7 @@ This repository is for our paper "[High-Performance and Configurable SW/HW Co-de
 
 This repository provides a software/hardware co-design evaluation of CRYSTALS-Dilithium based on the Xilinx Zynq architecture.
 
-Our code has passed the Artifact Evaluation (AE) of ACM TRETS. We have provided the [Zendo website](https://zenodo.org/record/7546038), which fixed errors in this repository and provided more complete data.
+Our code has passed the Artifact Evaluation (AE) of ACM TRETS. We have uploaded the full code to [Zendo website](https://zenodo.org/record/7546038), which fixed errors in this repository and provided more complete data.
 
 ## Pre-requisites
 
