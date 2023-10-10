@@ -1,5 +1,7 @@
 # High-Performance and Configurable SW/HW Co-design of Post-Quantum Signature CRYSTALS-Dilithium
 
+Important Notes: Our code has passed the Artifact Evaluation (AE) of ACM TRETS. We have uploaded full code to the [Zendo website](https://zenodo.org/record/7546038), which fixed errors in this repository and provided more details of the paper results calculation.
+
 This repository is for our paper "[High-Performance and Configurable SW/HW Co-design of Post-Quantum Signature CRYSTALS-Dilithium](https://dl.acm.org/doi/10.1145/3569456)" published in ACM Transactions on Reconfigurable Technology and Systems (TRETS). It hosts a hardware accelerator for the post-quantum signature scheme [CRYSTALS-Dilithium](https://pq-crystals.org/dilithium/), including:
 
 - a hybrid NTT/INTT module for polynomial multiplication.
@@ -8,8 +10,6 @@ This repository is for our paper "[High-Performance and Configurable SW/HW Co-de
 - a PRNG module with an SHA-3 core and a unified sampler.
 
 This repository provides a software/hardware co-design evaluation of CRYSTALS-Dilithium based on the Xilinx Zynq architecture.
-
-***Important Notes: Our code has passed the Artifact Evaluation (AE) of ACM TRETS. We have uploaded full code to the [Zendo website](https://zenodo.org/record/7546038), which fixed errors in this repository and provided more details of the paper results calculation.
 
 ## Pre-requisites
 
